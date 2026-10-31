@@ -33,8 +33,8 @@ week12_graded_assignment_ai_course/
 │   ├── predefined_questions.jsonl          # 4 answerable + 2 should-abstain questions
 │   └── learner_questions.jsonl             # 2 custom answerable + 1 custom abstain question
 ├── submission/
-│   ├── Week 12_Graded Mini Project_Naidu/  # Submission directory
-│   └── Week 12_Graded Mini Project_Naidu.zip # Graded submission archive
+│   ├── Week 12_Graded Mini Project_Siddharth_Naidu/  # Submission directory
+│   └── Week 12_Graded Mini Project_Siddharth_Naidu.zip # Graded submission archive
 ├── mp3_grounded_qa.py                      # Main RAG assistant & evaluation implementation
 ├── mp3_eval.txt                            # Evaluation table output
 ├── mp3_reflection.md                       # Structured reflection & analysis
@@ -165,7 +165,7 @@ Output recorded in [`mp3_eval.txt`](mp3_eval.txt):
 ## 📊 Summary of Submission Deliverables
 
 Per course guidelines, the submission package is located in `submission/`:
-- **`Week 12_Graded Mini Project_Naidu.zip`** containing:
+- **`Week 12_Graded Mini Project_Siddharth_Naidu.zip`** containing:
   - `mp3_grounded_qa.py`
   - `mp3_eval.txt`
   - `data/learner_questions.jsonl`
